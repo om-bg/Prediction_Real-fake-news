@@ -17,15 +17,15 @@ utilisant **Random Forest** et **Linear Regression**.
 
 1. Clonez ce dépôt :
    ```bash
-  ## Installation
-
-1. Clonez ce dépôt :
-   ```bash
    git clone https://github.com/om-bg/Prediction_Real-fake-news.git
    cd Prediction_Real-fake-news
 2. Installez les dépendances :
+   ```bash
    pip install -r requirements.txt
 3. Téléchargez les ressources nécessaires pour NLTK (stop words) 
- ```bash
+   ```bash
    python -c "import nltk; nltk.download('stopwords')"
+
+---
+
 
