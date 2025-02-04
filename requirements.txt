@@ -1,0 +1,8 @@
+Scikit-Learn
+Pandas
+Numpy
+matplotlib
+Seaborn
+Streamlit
+wordcloud
+joblib
