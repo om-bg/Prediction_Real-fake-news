@@ -4,6 +4,5 @@ Numpy
 matplotlib
 Seaborn
 Streamlit
-wordcloud
-joblib
-pickle
+WordCloud
+Pickle
