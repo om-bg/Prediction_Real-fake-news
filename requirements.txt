@@ -6,3 +6,4 @@ Seaborn
 Streamlit
 wordcloud
 joblib
+pickle
