@@ -19,22 +19,27 @@ utilisant **Random Forest** et **Linear Regression**.
 ## Installation
 
 1. Clonez ce dépôt :
+   
    ```bash
    git clone https://github.com/om-bg/Prediction_Real-fake-news.git
    cd Prediction_Real-fake-news
-2. Installez les dépendances :
+3. Installez les dépendances :
+   
    ```bash
    pip install -r requirements.txt
-3. Téléchargez les ressources nécessaires pour NLTK (stop words) 
+5. Téléchargez les ressources nécessaires pour NLTK (stop words)
+   
    ```bash
    python -c "import nltk; nltk.download('stopwords')"
 
 ---
 ## Utilisation
 1. Lancer l'application Streamlit
+   
    ```bash
    streamlit run app.py
 2.Sélectionnez un modèle (Régression logistique ou Forêt aléatoire).
+
 3.Faire une prédiction
 - Entrez un texte de news dans la zone de texte.
 - Cliquez sur "Prédire" pour obtenir le résultat ("Fake News" ou "Real News").
