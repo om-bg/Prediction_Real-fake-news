@@ -27,5 +27,14 @@ utilisant **Random Forest** et **Linear Regression**.
    python -c "import nltk; nltk.download('stopwords')"
 
 ---
+## Utilisation
+1. Lancer l'application Streamlit
+   ```bash
+   streamlit run app.py
+2.Sélectionnez un modèle (Régression logistique ou Forêt aléatoire).
+3.Faire une prédiction
+- Entrez un texte de news dans la zone de texte.
+- Cliquez sur "Prédire" pour obtenir le résultat ("Fake News" ou "Real News").
+
 
 
