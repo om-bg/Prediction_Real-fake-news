@@ -38,9 +38,10 @@ utilisant **Random Forest** et **Linear Regression**.
    
    ```bash
    streamlit run app.py
-2.Sélectionnez un modèle (Régression logistique ou Forêt aléatoire).
 
-3.Faire une prédiction
+2. Sélectionnez un modèle (Régression logistique ou Forêt aléatoire).
+ 
+3. Faire une prédiction
 - Entrez un texte de news dans la zone de texte.
 - Cliquez sur "Prédire" pour obtenir le résultat ("Fake News" ou "Real News").
 
