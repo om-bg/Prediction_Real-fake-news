@@ -3,7 +3,7 @@ Ce projet vise a classifier les articles d’actualites comme reels ou faux en
 utilisant **Random Forest** et **Linear Regression**.
 
 ## Resultat 
-(images/interface.png)
+![Interface](images/interface.png)
 
 ## Fonctionnalités
 
@@ -38,6 +38,10 @@ utilisant **Random Forest** et **Linear Regression**.
 3.Faire une prédiction
 - Entrez un texte de news dans la zone de texte.
 - Cliquez sur "Prédire" pour obtenir le résultat ("Fake News" ou "Real News").
+
+
+
+
 
 
 
