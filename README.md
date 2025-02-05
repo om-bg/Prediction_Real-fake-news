@@ -2,6 +2,9 @@
 Ce projet vise a classifier les articles d’actualites comme reels ou faux en
 utilisant **Random Forest** et **Linear Regression**.
 
+## Resultat 
+(images/interface.png)
+
 ## Fonctionnalités
 
 - **Prétraitement des données** : Nettoyage du texte, suppression des stop words, et vectorisation avec TF-IDF.
