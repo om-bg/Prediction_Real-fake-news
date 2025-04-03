@@ -45,6 +45,11 @@ utilisant **Random Forest** et **Linear Regression**.
 - Entrez un texte de news dans la zone de texte.
 - Cliquez sur "Prédire" pour obtenir le résultat ("Fake News" ou "Real News").
 
+---
+## 👤 Auteur  
+
+**BENHARI & OMAR**  
+
 
 
 
